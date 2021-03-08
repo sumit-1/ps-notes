@@ -10,3 +10,4 @@
 - [[Registry]]
 - [[Process Memory]]
 - [[Active Directory]]
+- [[File IO]]
